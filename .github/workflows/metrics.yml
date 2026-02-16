@@ -26,7 +26,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SIKAI-C
           filename: metrics-habits.svg
-          base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
@@ -39,6 +38,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SIKAI-C
           filename: metrics-activity.svg
-          base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
