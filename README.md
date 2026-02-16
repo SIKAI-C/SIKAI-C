@@ -1,4 +1,4 @@
-## Hi there 👋
+## Activity & Coding Habits
 
 <!--
 **SIKAI-C/SIKAI-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="./metrics-calendar.svg" width="32%" />
+  <img src="./metrics-habits.svg" width="32%" />
+  <img src="./metrics-activity.svg" width="32%" />
+</p>
